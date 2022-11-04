@@ -1,5 +1,5 @@
 absl-py==1.2.0
-anaconda-navigator==2.1.4
+# anaconda-navigator==2.1.4
 appdirs==1.4.4
 astor==0.8.1
 astunparse==1.6.3
