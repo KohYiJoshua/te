@@ -40,7 +40,6 @@ pycparser==2.20
 Pygments==2.8.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
-python==3.8
 python-dateutil==2.8.1
 python-lsp-jsonrpc==1.0.0
 pywinpty==0.5.7
